@@ -1,5 +1,5 @@
 const nomeDoHeroi = "Pac";
-let xpHeroi = "Digite a quantidade de XP do herói:";
+let xpHeroi = 5000;
 let elo;
 
 switch (true) {
